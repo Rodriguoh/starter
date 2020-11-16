@@ -1,0 +1,59 @@
+/*  POLICES */
+
+@font-face {
+  font-family: "";
+  src: url("") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/*  ELEMENTS REUTILISABLES   */
+
+.white-txt{
+  color: white;
+}
+
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*  HEADER  */
+
+
+/* CORPS DE LA PAGE */
+
+
+/*  FOOTER  */
+
+
+
+/*	Tablette	*/
+
+@media screen and (min-width: 400px) {
+
+  /*  HEADER  */
+
+
+  /* CORPS DE LA PAGE */
+
+
+  /*  FOOTER  */
+
+}
+
+/*	Téléphone	*/
+
+@media screen and (min-width: 1024px) {
+
+  /*  HEADER  */
+
+
+  /* CORPS DE LA PAGE */
+
+
+  /*  FOOTER  */
+
+}
