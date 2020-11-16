@@ -1,0 +1,52 @@
+
+/*  POLICES */
+
+@font-face {
+  font-family: "";
+  src: url("") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*  CLASSES REUTILISABLES   */
+
+@mixin flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.white-txt{
+  color: white;
+}
+
+/*  HEADER  */
+
+nav{
+  @include flex;
+  justify-content: space-around;
+}
+nav ul{
+  list-style-type: none;
+}
+
+/* CORPS DE LA PAGE */
+
+
+
+/*  FOOTER  */
+
+
+
+/*Tablette*/
+@media screen and(min-width: 768px) {
+
+
+
+}
+/*Téléphone*/
+@media screen and(min-width: 1024px) {
+
+
+
+}
